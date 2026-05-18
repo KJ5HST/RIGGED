@@ -25,37 +25,37 @@ Contact me at KJ5HST@Deppe.com if you want me to demonstrate for your club, or d
 
 ## What works today
 
-###Drag-and-drop UI
+**Drag-and-drop UI**
  - Any number of workspaces with any number of profiles with any number of views
  - Every panel drops onto any view.
  - Rename, duplicate, delete, build your own.
  - Export/Import to share your setup with your friends or install on another computer.
 
-###Native FTX-1 driver
+**Native FTX-1 driver**
 - Hamlib not required
 - 91 CAT commands
 - 17 operating modes
 - every menu setting
 - Hardware-verified on Field and Optima configurations
 
-###Native digital modes
+**Native digital modes**
 - FT8
 - FT4
 - JT65
 - WSPR
 
-###Remote control
+**Remote control**
 - Same app, different location
 - Self discovery
 - Audio over TCP -- server, client, or both
 
-###Cross-platform
+**Cross-platform**
 - Mac
 - Windows
 - Linux 
 - Web client available in any modern browser
 
-###Nine languages
+**Nine languages**
 - English
 - German
 - French
@@ -68,7 +68,7 @@ Contact me at KJ5HST@Deppe.com if you want me to demonstrate for your club, or d
 
 ---
 
-## What we just shipped
+## What we just built
 
 Last thirty days, structural — boring but necessary:
 
