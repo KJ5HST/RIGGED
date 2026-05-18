@@ -19,6 +19,8 @@ This page is informational. The app is a proof of concept, and I'm seeking input
 
 - [Life At Terminal Velocity](https://youtu.be/MazhoI204Zk)
 
+Contact me at KJ5HST@Deppe.com if you want me to demonstrate for your club, or do a live stream.
+
 ---
 
 ## What works today
@@ -97,7 +99,7 @@ Currently in a feature freeze for a post-Hamvention cleanup sprint. No new featu
 
 ## Not yet
 
-No install, no signup, no buy button — not yet. This page is a snapshot of where the work is right now, posted while the brand and the website catch up to the software.
+No install, no signup, no buy button — not yet. This page is a snapshot of where the work is right now. Overwhelming positive feedback at Hamvention and in video comments are a green light to continue development.
 
 Watch this repo for updates.
 
