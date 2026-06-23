@@ -19,7 +19,8 @@ This page is informational. The app is a proof of concept, and I'm seeking input
 
 - [Life At Terminal Velocity](https://youtu.be/MazhoI204Zk)
 - [PrepHam Paul](https://youtu.be/mITzk-DXeKg?si=w2jtmRSYc8wXXXwp)
-
+- [Amateurs & Airwaves](https://youtu.be/IH4JVnkjYZs)
+- 
 Contact me at KJ5HST@Deppe.com if you want me to demonstrate for your club, or do a live stream.
 
 ---
